@@ -1,4 +1,4 @@
-## Sitecore Support Knowledgebase
+## Sitecore Support Knowledge Base
 
 The Support KB (formerly kb.sitecore.net) highlights known issues, How-to's, Security bulletins, and support information for these products:
 
